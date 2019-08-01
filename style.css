@@ -1,0 +1,9 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); 
+
+body {
+  background-color: #F6D4F3;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
